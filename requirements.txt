@@ -1,0 +1,17 @@
+# Web server
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.9.2
+python-multipart==0.0.17
+
+# RAG pipeline
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.4
+faiss-cpu==1.9.0.post1
+sentence-transformers==3.3.1
+transformers==4.47.1
+huggingface-hub==0.27.0
+torch==2.5.1
+pypdf==5.1.0

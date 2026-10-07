@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data & generated index (large / regenerable — don't commit)
+data/*.pdf
+data/faiss_index/
+!data/.gitkeep
+
+# Model caches
+.cache/
+*.bin
+*.safetensors
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
