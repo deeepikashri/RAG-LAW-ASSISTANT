@@ -1,4 +1,4 @@
-# अनुच्छेद (Anuchhed) — Self-RAG Assistant for the Constitution of India
+# RAG Assistant for the Constitution of India
 
 A retrieval-augmented, self-critiquing question-answering app over the
 Constitution of India. Originally prototyped in a Jupyter notebook
